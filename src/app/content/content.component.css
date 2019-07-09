@@ -38,7 +38,7 @@ body{
 
 
 .bg_img{
-  background: url(/imagem1.png) no-repeat; 
+  background: url(imagem1.png) no-repeat; 
   
 	
   /* Set up proportionate scaling */
